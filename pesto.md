@@ -1,5 +1,3 @@
-Thank you for the clarification — that changes the picture significantly. There's no grief or loss-of-bonded-companion component here. This is **pure acute trauma**: a dog physically close to a person dying, likely exposed to blood, the sight of a body, sounds (screaming, impact, emergency responders), and the carer's own terror. The dog's nervous system registered this as a life-threatening event.
-
 ## What the dog likely experienced
 
 A dog that was physically close to a suicide would have been exposed to:
