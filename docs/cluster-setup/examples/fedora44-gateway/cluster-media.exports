@@ -1,0 +1,1 @@
+/mnt/nas/media/videos 192.168.45.0/24(rw,sync,root_squash,no_subtree_check,fsid=0)
